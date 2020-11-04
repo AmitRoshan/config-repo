@@ -1,2 +1,1 @@
-example:
-  propert: "I AM IN THE Dev"
+example.propert: "I AM IN THE default Dev"
