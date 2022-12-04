@@ -3,6 +3,6 @@ licensing:
   encMsg: "{cipher}29fe0c3578543e0c19ddb21b15798b36654c727bbbf9f8d9fb39da9e9efc808b74a6574b1e7c3cccf9d430de095cce53"
 info:
   app:
-    name: organization
-    description: service to handel organization request
+    name: licencing
+    description: service to handel licencing request
     version: 0.0.1
